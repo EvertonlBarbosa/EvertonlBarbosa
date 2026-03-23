@@ -1,10 +1,9 @@
 # 👨🏽‍💻 Everton Barbosa
 **`🎓 Graduando Análise e Desenvolvimento de Sistemas`**
 
+Atualmente, estou me dedicando ao aprendizado de Python, HTML, CSS e Inglês.
 
-Tenho 25 anos e estou em constante evolução na área de tecnologia. Atualmente, venho me dedicando ao aprendizado de novas ferramentas e linguagens, sempre buscando aplicar o conhecimento na prática por meio de projetos.
-
-Acredito que a consistência e a vontade de aprender são essenciais para crescer na área de programação.
+Busco aprimorar minhas habilidades por meio de projetos práticos e evolução contínua, com o objetivo de construir uma carreira sólida na área de tecnologia.
 
 
 
